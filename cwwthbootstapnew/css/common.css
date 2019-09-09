@@ -1,0 +1,98 @@
+#cw_logo {
+	width: 100px;
+	height: 50px;
+}
+
+h5 {
+	vertical-align: -webkit-baseline-middle;
+	padding: 8px;
+	margin: 0;
+	font-family: 'Righteous', cursive;
+}
+
+.navbar {
+	background-color: #ffef37 !important;
+	font-family: 'Righteous', cursive;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #000;
+	font-size: 18px;
+}
+
+.navbar-light .navbar-toggler {
+	color: #000;
+	border-color: #000;
+}
+
+.navbar-brand {
+	/*	height: 80px; 
+	float: none;*/
+	
+}
+
+#tournament_name {
+	vertical-align: middle;
+	font-family: 'Righteous', cursive;
+	font-size: 24px;
+	height: inherit;
+}
+
+#myNavbar {
+	height: 80px;
+}
+
+.nav-link {
+	
+}
+
+/* For Dual */
+h3 {
+	text-align: center;
+	font-family: 'Righteous', cursive;
+margin-top: 10px; 
+}
+
+.fulldiv {
+	 background-color:gray; 
+	width: 50%;
+	display: inline-block;
+	justify-content: center;
+	border:2px solid yellow;
+	
+
+	/* Center */
+	margin: auto;
+	position: absolute;
+	margin-top: 5%;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+
+.select {
+	overflow: hidden;
+	position: relative;
+	display: inline !important;
+	/* width: 15em; */
+	line-height: 3;
+	padding-bottom: 10px;
+}
+
+.column {
+	float: left;
+}
+
+.submit {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	font-family: 'Righteous', cursive;
+	margin-bottom: 10px;
+}
+/* Clear floats after the columns */
+/* .row:after {
+	 content: "";
+	display: table;
+	clear: both;
+}  */
